@@ -19,6 +19,8 @@ public class WindowTest {
     WebDriver driver;
     WebDriverWait wait;
 
+    // test comment
+
     @BeforeSuite
     public void setUp() {
         WebDriverManager.chromedriver().setup();
